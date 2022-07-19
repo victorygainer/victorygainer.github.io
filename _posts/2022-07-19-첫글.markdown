@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Github 블로그 첫글"
+date:   2022-07-19 21:09:30 +0530
+categories: 사는얘기
+---
+Github 블로그 첫글을 남겨본다.  
+앞으로 무수히 많은 일들이 있을 것임은 확실하다.  
+기억보단 기록을 믿으며,  
+한발자국 한발자국 성실하고 꾸준히 나갈 것이다.  
+
+[메인으로]
+
+[메인으로]: https://victorygainer.github.io
